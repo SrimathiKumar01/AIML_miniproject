@@ -1,0 +1,6 @@
+Metric,Value (%)
+Ensemble Accuracy,99.89994997498749
+Random Forest Accuracy,100.0
+XGBoost Accuracy,99.84992496248124
+CatBoost Accuracy,99.69984992496248
+Mean CV Score,99.82489055659786

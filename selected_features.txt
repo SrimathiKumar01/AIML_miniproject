@@ -1,0 +1,8 @@
+SELECTED FEATURES (Granger Causality)
+============================================================
+
+Sales_MA7
+Profit_MA7
+Order_Count
+Profit
+Discount_MA7
